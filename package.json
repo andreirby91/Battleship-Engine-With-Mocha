@@ -1,0 +1,15 @@
+{
+  "name": "battleship_engine",
+  "version": "1.0.0",
+  "description": "Learning unit testing with chai and mocha",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "Andrei Beraru",
+  "license": "MIT",
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^3.2.0"
+  }
+}
