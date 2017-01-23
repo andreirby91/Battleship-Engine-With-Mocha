@@ -11,5 +11,17 @@
   "devDependencies": {
     "chai": "^3.5.0",
     "mocha": "^3.2.0"
-  }
+  },
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andreirby91/Battleship-Engine-With-Mocha.git"
+  },
+  "bugs": {
+    "url": "https://github.com/andreirby91/Battleship-Engine-With-Mocha/issues"
+  },
+  "homepage": "https://github.com/andreirby91/Battleship-Engine-With-Mocha#readme"
 }
